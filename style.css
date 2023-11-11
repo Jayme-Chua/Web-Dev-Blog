@@ -1,0 +1,19 @@
+h1 {
+	color: rebeccapurple;
+  font: Times New Roman, Arial;
+}
+
+h2 {
+	color: #7ed6fb;
+  background-color: gray;
+  font: Roboto, Arial;
+}
+h3 {
+  color: red;
+}
+footer{
+    background-color: lightblue;
+}
+body{
+    color: darkgreen;
+}
